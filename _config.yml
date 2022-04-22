@@ -34,19 +34,6 @@ logo                     :
 masthead_title           : ""
 
 # Site Author
-author:
-  name             : "Henry Kim"
-  avatar           : ""
-  bio              : ""
-  location         : "Republic of Korea"
-  email            : ""
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:devHen990@gmail.com
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/devhen990"
 
 # Build settings
 theme: minima
